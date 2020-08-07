@@ -14,4 +14,4 @@
 */
 
 
-var time = 0;
+var time = 10;
